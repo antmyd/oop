@@ -1,0 +1,13 @@
+public class Hund {
+    //Attribute
+    String name;
+    int alter;
+
+    //Methoden
+    public void bellen() {
+        System.out.println("wuff wuff");
+    }
+    public void friss() {
+        System.out.println("mampf");
+    }
+}
